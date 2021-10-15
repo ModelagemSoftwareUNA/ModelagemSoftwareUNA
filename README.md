@@ -50,7 +50,16 @@ Leia o arquivo (NOME) para saber detalhes sobre o nosso código de conduta e o p
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/Michele-Nakashima" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/83414697?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Michele Padawan</b></sub></a><br><a 
+    <td align="center"><a href="https://github.com/Michele-Nakashima" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/83414697?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Michele Padawan</b></sub></a><br> 
+      
+       </tr>
+</tbody></table>
+
+# Agradecimentos
+
+<h4 align = "center">
+O velho ditado popular nos ensina: “É fazendo que se aprende”. Esse projeto de Modelagem de Software mostra como podemos aprender coisas novas e diferentes a partir do momento que desafiamos nossos limites e como o ser humano é flexível diante ao aprendizado. Estar diante de algo novo pode ser ilustrado pela metáfora do “aquário”. Um peixe só conhece bem aquilo que vivencia e está habituado. Seu mundo é um minúsculo tanque fechado e transparente. Contudo, não satisfeito, o peixe permite imaginar como seria nadar no oceano. E o que impede ele de se aventurar é o medo de arriscar e perder aquilo que ele julga possuir: seu limitante aquário. Se o peixe quiser conhecer algo além daquilo que já sabe, ele vai ter que dar um salto e arriscar a nadar no desconhecido oceano cheio de experiências, transformações e conhecimentos. Nossa equipe agradece os professores responsáveis por permitir que nós, alunos, tenhamos experiências significativas para nossa trajetória enquanto profissionais de tecnologia. 
+</h4>
 
  
 
