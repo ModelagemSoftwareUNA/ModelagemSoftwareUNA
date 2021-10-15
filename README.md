@@ -2,10 +2,8 @@
 
 # Título do projeto (a definir)
 
-
-! [Capa do Projeto]
-
-#  Sobre o Projeto 
+![Isso é uma imagem]( https://url.gratis/Un5evV)
+# Sobre o Projeto
 
 <h4 align = "center">
   Uma rede social que permita o usuário criar seu portfólio profissional e interagir com outros profissionais. 
@@ -26,8 +24,8 @@
  - Agradecimentos 
 
 # Requisitos Funcionais
-- [ ] Permitir inserir dados para fazer a ficha do perfil.
-- [ ] Permitir que o usuário molde a página para que a deixe de modo que queira apresentar.
+- [ ] Permitir inserir dados para fazer a ficha do perfil
+- [ ] Permitir que o usuário molde a página para que a deixe de modo que queira apresentar..
 - [ ] Permitir anexar códigos fontes, fotos, documentos ou algo que especifique sua profissão para construir seu portfólio.
 - [ ] Permitir a interação entre usuários.
 - [ ] Permitir a divulgação de vagas de trabalho.
