@@ -46,7 +46,7 @@ Leia o arquivo (NOME) para saber detalhes sobre o nosso código de conduta e o p
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md]( para mais detalhes. 
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA/blob/main/LICENSE) para mais detalhes. 
 
 # Agradecimentos
 
