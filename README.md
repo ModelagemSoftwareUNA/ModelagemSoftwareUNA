@@ -4,19 +4,20 @@
 
 ![Isso é uma imagem]( https://url.gratis/Un5evV)
 
-# Sobre o Projeto
+# Sobre o Projeto 
 
 O projeto nasceu da necessidade de ter uma rede social voltada para um profissional na qual ele pudesse criar um portfólio online que demonstrasse suas habilidades, qualificações, competências e experiências. Esse portfólio poderia ser utilizado para atrair clientes, candidatar a empregos, para fins acadêmicos ou fechar negócios. Ability tem como objetivo principal valorizar o trabalho de cada profissional, permitindo a construção de um perfil atrativo, dinâmico, seguro e confiável.  
   
+
  # Índice/Sumário
- - * Sobre
- - Sumário
- - Requisitos Funcionais
- - Tecnologias Usadas
- - Contribuição"
- - Autores
- - Licença
- - Agradecimentos
+ - [Sobre](Sobre)
+ - [Sumário](Sumário)
+ - [Requisitos funcionais](Requisitos Funcionais)
+ - [Tecnologias Usadas](Tecnologias Usadas)
+ - [Contribuição](Contribuição)
+ - [Autores](Autores)
+ - [Licença](Licença)
+ - [Agradecimentos](Agradecimentos)
 
 # Requisitos Funcionais
 - [x] Permitir inserir dados para fazer a ficha do perfil
