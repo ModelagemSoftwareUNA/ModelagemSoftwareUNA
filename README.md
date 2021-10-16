@@ -10,14 +10,15 @@ O projeto nasceu da necessidade de ter uma rede social voltada para um profissio
   
 
  # Índice/Sumário
- - [Sobre](Sobre)
- - [Sumário](Sumário)
- - [Requisitos funcionais](Requisitos Funcionais)
- - [Tecnologias Usadas](Tecnologias Usadas)
- - [Contribuição](Contribuição)
- - [Autores](Autores)
- - [Licença](Licença)
- - [Agradecimentos](Agradecimentos)
+ - [Sobre](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#sobre-o-projeto)
+ - [Sumário](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+ - [Requisitos funcionais](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+ - [Tecnologias Usadas](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+ - [Contribuição](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#contribui%C3%A7%C3%A3o)
+ - [Autores](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#autores)
+ - [Licença](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+ - [Agradecimentos](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+
 
 # Requisitos Funcionais
 - [x] Permitir inserir dados para fazer a ficha do perfil
