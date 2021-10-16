@@ -7,7 +7,9 @@
 O projeto nasceu da necessidade de ter uma rede social voltada para um profissional na qual ele pudesse criar um portfólio online que demonstrasse suas habilidades, qualificações, competências e experiências. Esse portfólio poderia ser utilizado para atrair clientes, candidatar a empregos, para fins acadêmicos ou fechar negócios. Ability tem como objetivo principal valorizar o trabalho de cada profissional, permitindo a construção de um perfil atrativo, dinâmico, seguro e confiável.  
   
  # Índice 
+ 
  -sobre o projeto 
+ 
  -requisitos funcionais
  
 
