@@ -45,11 +45,11 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/Michele-Nakashima/CONTRIBUTI
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/Michele-Nakashima" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/83414697?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Michele Padawan</b></sub></a><br> 
+     <td align="center"><a href="https://github.com/Michele-Nakashima" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/83414697?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Michele Padawan</b></sub></a><br> 
          <td align="center"><a href="https://github.com/gabrielfelipefelie" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/79948672?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Gabriel Felipe</b></sub></a><br>
-                 <td align="center"><a href="https://github.com/Brun00hen" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/92641546?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Bruno Garcia</b></sub></a><br>
-                       <td align="center"><a href="https://github.com/Michele-Nakashima" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/83414697?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Michele Padawan</b></sub></a><br>
-               <td align="center"><a href="https://github.com/Michele-Nakashima" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/83414697?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Michele Padawan</b></sub></a><br>
+     <td align="center"><a href="https://github.com/Brun00hen" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/92641546?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Bruno Garcia</b></sub></a><br>
+           <td align="center"><a href="https://github.com/MiguelFerreiraRibeiro" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/90352047?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Miguel Ferreira</b></sub></a><br>
+     <td align="center"><a href="https://github.com/Migueangelrodolfo" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/92491142?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Miguel Angel</b></sub></a><br>
       
      
 </tbody></table>
