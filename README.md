@@ -33,7 +33,7 @@ O projeto nasceu da necessidade de ter uma rede social voltada para um profissio
 
 # Contribuição
 
-Leia o arquivo (NOME) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações _pull_ (_Pull Request_) para nós. 
+Leia o arquivo [CONTRIBUTING.md](https://github.com/Michele-Nakashima/CONTRIBUTING.md/blob/main/README.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações _pull_ (_Pull Request_) para nós. 
 
 # Autores
 
