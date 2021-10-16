@@ -12,12 +12,12 @@ O projeto nasceu da necessidade de ter uma rede social voltada para um profissio
  # Índice/Sumário
  - [Sobre](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#sobre-o-projeto)
  - [Sumário](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
- - [Requisitos funcionais](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+ - [Requisitos funcionais](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#requisitos-funcionais)
  - [Tecnologias Usadas](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
  - [Contribuição](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#contribui%C3%A7%C3%A3o)
  - [Autores](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#autores)
- - [Licença](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
- - [Agradecimentos](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#tecnologias-utilizadas)
+ - [Licença](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#licen%C3%A7a)
+ - [Agradecimentos](https://github.com/ModelagemSoftwareUNA/ModelagemSoftwareUNA#agradecimentos)
 
 
 # Requisitos Funcionais
