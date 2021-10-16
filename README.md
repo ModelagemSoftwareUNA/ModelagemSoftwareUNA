@@ -1,4 +1,4 @@
-# template-repositório
+
 
 # Ability (Portfólio Online)
 
@@ -31,10 +31,9 @@ O projeto nasceu da necessidade de ter uma rede social voltada para um profissio
 
 # Tecnologias Utilizadas
 
-- (opção 1)
-- (opção 2)
-- (opção 3)
-- (opção 4)
+- [Wordpress](https://br.wordpress.org/)
+- [HTML](https://mestredohospedasite.com.br/criador-de-sites/webnode/)
+
 
 # Contribuição
 
