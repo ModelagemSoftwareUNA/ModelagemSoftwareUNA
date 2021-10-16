@@ -19,9 +19,9 @@ O projeto nasceu da necessidade de ter uma rede social voltada para um profissio
 - [x] Permitir anexar códigos fontes, fotos, documentos ou algo que especifique sua profissão para construir seu portfólio.
 - [x] Permitir a interação entre usuários.
 - [x] Permitir a divulgação de vagas de trabalho.
-- [ ] Permitir agendar entrevistas para vagas de trabalho.
-- [ ] Permitir o usuário executar alterações sempre que quiser em seu registro.
-- [ ] Permitir que o usuário consulte quem o visitou em sua página.
+- [x] Permitir agendar entrevistas para vagas de trabalho.
+- [x] Permitir o usuário executar alterações sempre que quiser em seu registro.
+- [x] Permitir que o usuário consulte quem o visitou em sua página.
 - [ ] Permitir a criação de uma timeline para que o usuário poste algo de interessante na comunidade. 
 
 # Tecnologias Utilizadas
@@ -46,6 +46,7 @@ Leia o arquivo (NOME) para saber detalhes sobre o nosso código de conduta e o p
 
 # Licença
 
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md]( para mais detalhes. 
 
 # Agradecimentos
 
