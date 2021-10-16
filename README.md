@@ -64,6 +64,6 @@ O velho ditado popular nos ensina: “É fazendo que se aprende”. Esse projeto
 
 Estar diante de algo novo pode ser ilustrado pela metáfora do “aquário”. Um peixe só conhece bem aquilo que vivencia e está habituado. Seu mundo é um minúsculo tanque fechado e transparente. Contudo, não satisfeito, o peixe permite imaginar como seria nadar no oceano. E o que impede ele de se aventurar é o medo de arriscar e perder aquilo que ele julga possuir: seu limitante aquário. Se o peixe quiser conhecer algo além daquilo que já sabe, ele vai ter que dar um salto e arriscar a nadar no desconhecido oceano cheio de experiências, transformações e conhecimentos. 
 
-Nossa equipe agradece os professores responsáveis por permitir experiências significativas para nossa trajetória enquanto profissionais de tecnologia. 
+Nossa equipe agradece os professores responsáveis por proporcionar experiências significativas para nossa trajetória enquanto profissionais de tecnologia. 
 
 Muito obrigado, professor [Diego](https://github.com/profdiegoaugusto) e professor Alexandre!
