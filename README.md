@@ -33,8 +33,9 @@ O projeto nasceu da necessidade de ter uma rede social voltada para um profissio
 
 # Tecnologias Utilizadas
 
-- [Wordpress](https://br.wordpress.org/)
-- [HTML](https://mestredohospedasite.com.br/criador-de-sites/webnode/)
+- [MySql](https://www.mysql.com/)
+- [Astah Uml](https://astah.net/)
+- [ERDPlus](https://erdplus.com/)
 
 
 # Contribuição
